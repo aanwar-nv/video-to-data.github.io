@@ -16,7 +16,7 @@ const talk_speaker_details = {
 const organizers_details = [
   ['Xinghao Zhu', 'assets/images/organizers/xinghao_zhu.png', '', 'NVIDIA', 'https://rolandzhu.github.io/'],
   ['Yan Chang', 'assets/images/organizers/yan_chang.jpg', '', 'NVIDIA', 'https://scholar.google.com/citations?user=vcU93tYAAAAJ'],
-  ['Zixi (Zeo) Liu', 'assets/images/organizers/zixi_liu.jpg', '', 'Harvard University', 'https://biorobotics.harvard.edu/directory/zixi-liu/'],
+  ['Zixi (Zeo) Liu', 'assets/images/organizers/zixi_liu.jpg', '', 'NVIDIA', 'https://biorobotics.harvard.edu/directory/zixi-liu/'],
   ['Kuan Fang', 'assets/images/organizers/kuan_fang.jpg', '', 'Cornell University', 'https://kuanfang.github.io/'],
   ['Preston Culbertson', 'assets/images/organizers/preston_culbertson.jpg', '', 'Cornell University', 'https://pculbertson.github.io/'],
   ['Bowen Wen', 'assets/images/organizers/bowen_wen.jpg', '', 'NVIDIA', 'https://wenbowen123.github.io/'],
