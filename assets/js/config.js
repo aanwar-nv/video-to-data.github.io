@@ -7,10 +7,10 @@ const workshop_date = `Half-Day Workshop &middot; Date TBD`
 const placeholder_img = 'https://bulma.io/images/placeholders/128x128.png'
 
 const talk_speaker_details = {
-  'dx': ['Danfei Xu', placeholder_img, 'Assistant Professor', 'Georgia Institute of Technology', 'https://faculty.cc.gatech.edu/~danfei/', 'Learning from Human Demonstrations from Egocentric Videos', ''],
-  'jb': ['Jeannette Bohg', placeholder_img, 'Assistant Professor', 'Stanford University', 'https://web.stanford.edu/~bohg/', 'Learning Interactive Perception from Human Demos', ''],
-  'yl': ['Yi Li', placeholder_img, '', 'Tsinghua University', '#', 'Learning from Retargeted Videos', ''],
-  'rh': ['Roei Herzig', placeholder_img, 'Postdoc @ Berkeley, Incoming Prof @ SFU', 'UC Berkeley / Simon Fraser University', 'https://roeiherz.github.io/', 'Representations for Learning from Human Videos', ''],
+  'dx': ['Danfei Xu', 'assets/images/speakers/danfei_xu.jpg', 'Assistant Professor', 'Georgia Institute of Technology', 'https://faculty.cc.gatech.edu/~danfei/', 'Learning from Human Demonstrations from Egocentric Videos', ''],
+  'jb': ['Jeannette Bohg', 'assets/images/speakers/jeannette_bohg.png', 'Assistant Professor', 'Stanford University', 'https://web.stanford.edu/~bohg/', 'Learning Interactive Perception from Human Demos', ''],
+  'yl': ['Yi Li', 'assets/images/speakers/yi_li.jpg', 'Assistant Professor', 'Tsinghua University', 'https://ericyi.github.io/', 'Learning from Retargeted Videos', ''],
+  'rh': ['Roei Herzig', 'assets/images/speakers/roei_herzig.png', 'Postdoc @ Berkeley, Incoming Prof @ SFU', 'UC Berkeley / Simon Fraser University', 'https://roeiherz.github.io/', 'Representations for Learning from Human Videos', ''],
 }
 
 const organizers_details = [
